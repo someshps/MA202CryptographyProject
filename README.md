@@ -1,7 +1,7 @@
 # MA202CryptographyProject
 This repository contains our work done for the course project as a part of MA202 at IIT Gandhinagar. 
 
-Our project implements a symmetric encryption-decryption algorithm which is developed using steganography and the encryption and decryption is done using three different numerical methods. The encryption is done using the concept of one-way function and then finally steganography is used to encrypt it.
+Our project implements a symmetric encryption-decryption algorithm which is developed using steganography and the encryption and decryption is done using two different numerical methods. The encryption is done using the concept of one-way function and then finally steganography is used to encrypt it.
 
 The project was a collaborative work by 5 students at IIT Gandhinagar:
 1. Ayush Anand, Discipline of Computer Science and Engineering
